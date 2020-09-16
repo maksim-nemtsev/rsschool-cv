@@ -1,2 +1,2 @@
 # rsschool-cv
-CV
+### https://maksim-nemtsev.github.io/rsschool-cv/cv
