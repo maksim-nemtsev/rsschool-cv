@@ -33,7 +33,7 @@ hand -->
 
 ## Education
 
-### <span>Stavropol State Agrarian University</span> <span>2011 -- 2016</span>
+### <span>Stavropol State Agrarian University</span>
 
 ## Skills
 
