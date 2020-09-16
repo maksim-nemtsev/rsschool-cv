@@ -5,6 +5,7 @@
 line. It is intended to be used for contact details -->
 - <vezunchigg@gmail.com>
 - +79880968199
+- [Linkedin](https://www.linkedin.com/in/maksim-nemtsev/)
 - [GitHub Maksim Nemtsev](https://github.com/maksim-nemtsev)
 - Russia, Stavropol
 
@@ -23,7 +24,7 @@ hand -->
 
 ## Projects
 
-### <span>[Github](github.com/maksim-nemtsev)</span> <span>Aug 2016</span>
+### <span>[Github](github.com/maksim-nemtsev)</span>
    - [Songbird](https://festive-ride-1644b7.netlify.app/)
    - [React TODO](https://pedantic-noyce-463bbd.netlify.app/)
    - [React TIC TAC TOE](https://quirky-murdock-7173cb.netlify.app/)
