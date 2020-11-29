@@ -18,9 +18,19 @@ Web Developer.
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Web Developer, freelance</span> <span>Nov 2019 -- this time</span>
-
+ - HTML/CSS/JS/React
  - Build a web aplications
  - Optimized and testing aplications
+
+### <span>Web Developer</span> <span>Jun 2020 -- Sep 2020</span>
+ - HTML/CSS/JQuery/Bitrix
+ - Build a web aplications
+ - Optimized and testing aplications
+ 
+### <span>Web Developer</span> <span>Oct 2020 -- Until now</span>
+ - HTML/CSS/JQuery/Bitrix
+ - Build a web aplications
+ - Optimized and testing aplications 
 
 ## Projects
 
